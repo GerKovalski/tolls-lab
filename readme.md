@@ -1,0 +1,1 @@
+To run with not default profile use: mvn [task] -P profile-2
